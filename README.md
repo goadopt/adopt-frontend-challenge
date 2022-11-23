@@ -9,7 +9,7 @@ This project was created to test your skills and logic. Be prepared to work with
 
 ### `npm install`
 
-Install the project dependencies
+Install project dependencies
 
 ### `npm start`
 
