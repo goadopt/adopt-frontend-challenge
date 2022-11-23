@@ -4,6 +4,8 @@ This project was created to test your skills and logic. Be prepared to work with
 
 - Axios
 - Tailwind
+- Font family Nunito
+- React icons
 
 ## Quick Start
 
