@@ -1,8 +1,6 @@
-import React from "react";
-
 function App() {
   return (
-    <div className="h-screen flex items-center justify-center">
+    <div>
       <h1>Welcome to the Adopt Challenge</h1>
     </div>
   );
